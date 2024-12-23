@@ -17,3 +17,5 @@ Dacon is site that hosts AI Challenge like kaggle.
 
 [Dacon Link](https://dacon.io/competitions/official/236216/overview/description)
 
+**`제 1회 Medical AI(MAI) 경진대회, 주최: 고려대학교 의료원 상위 20`**
+[Dacon Link](https://dacon.io/competitions/official/236382/overview/description)
