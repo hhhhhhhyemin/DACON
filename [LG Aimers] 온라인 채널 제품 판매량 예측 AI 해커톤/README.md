@@ -1,4 +1,4 @@
-** 주제 : 온라인 채널 제품 판매량 예측 **
+**`주제 : 온라인 채널 제품 판매량 예측`**
 ![Image](https://github.com/user-attachments/assets/e0c222f7-70eb-4327-ae0f-575025e7d6e6)
 ![Image](https://github.com/user-attachments/assets/eec55a87-e392-4c8f-86f2-c54ccaaab2e8)
 
