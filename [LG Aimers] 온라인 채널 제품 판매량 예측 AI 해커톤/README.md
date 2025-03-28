@@ -5,9 +5,9 @@
     - LSTM
     - XGBoost
     - RandomForest
-    - 
-- 분석 방법
 
+- 분석 방법
+    - 
 
 
 
